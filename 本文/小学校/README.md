@@ -1,8 +1,8 @@
-# 小学校学習指導要領（平成1４年４月施行）
+# 小学校学習指導要領（平成1５年１２月改正）
 
-告示日 1998-12-14
+告示日 2003-12-26
 
-[国立教育政策研究所の原文目次](https://erid.nier.go.jp/files/COFS/h10e/index.htm)
+[国立教育政策研究所の原文目次](https://erid.nier.go.jp/files/COFS/h15e/index.htm)
 
 ## 目次
 
