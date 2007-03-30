@@ -1,8 +1,8 @@
-# 高等学校学習指導要領（平成1５年１２月改正）
+# 高等学校学習指導要領（平成1９年３月改正）
 
-告示日 2003-12-26
+告示日 2007-03-30
 
-[国立教育政策研究所の原文目次](https://erid.nier.go.jp/files/COFS/h15h/index.htm)
+[国立教育政策研究所の原文目次](https://erid.nier.go.jp/files/COFS/h19h/index.htm)
 
 ## 目次
 
