@@ -1,6 +1,6 @@
 # 2015-03-27 の一部改正
 
-小学校・中学校・特別支援学校の改正後全文PDFを収録。Markdown化は未完了
+小学校・中学校・特別支援学校小学部・中学部の改正後全文をMarkdownと原文PDFで収録。
 
 [文部科学省の原典・通知](https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/1356253.htm)
 
