@@ -10,3 +10,5 @@
   SHA-256 3d79bd71f7d510efbea51fe5eb0f06d62b89944b280c3b9b0df535210b9d29f8
 - [特別支援学校のPDF](特別支援学校・原文.pdf)（[出典](https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/__icsFiles/afieldfile/2015/03/27/1356252_1.pdf)）
   SHA-256 278e115e8e3c3dc2ce7ae14ef59984a0f70d83d9e0c22464e4b26e4dd7cbdb29
+
+[告示日時点の3校種のMarkdown本文](https://github.com/KantoYamamoto/japan-course-of-study-history/tree/cos-2015-03-27-reviewed/%E6%9C%AC%E6%96%87)
